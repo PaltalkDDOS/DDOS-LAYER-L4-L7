@@ -2,7 +2,7 @@
 # PaltalkDDOS ![](https://img.shields.io/badge/Version-3.6-brightgreen.svg) ![](https://img.shields.io/badge/license-GPLv2-blue.svg)
  A script for using proxies to attack http(s) server. and L4
 
-# Donate Bitcon : 1BHQMtb9vsMXu64dEjA2bkrNmFWGrHDtX7
+# Donate Bitcon : 19oTxQe8CKsC6SGTD4gN9kPgTWzUUSFQ7y
 
  
  News:
